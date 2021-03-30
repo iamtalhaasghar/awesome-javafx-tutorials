@@ -1,0 +1,1 @@
+Some helping manuals i created to help my peers to be able to understand and develop GUI applications in JavaFX.
